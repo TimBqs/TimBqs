@@ -29,7 +29,7 @@ Web-Developer
 
 - 💬 Знаю **React, JS**
 
-- 📫 Свяжитесь со мной **https://t.me/TimBqs**
+- 📫 Свяжитесь со мной **https://t.me/TimBqsNote**
 
 - ⚡ **Я люблю Пиратов Карибского моря**
 
