@@ -23,11 +23,11 @@ Web-Developer
 <h1 align="center">Привет 👋, меня зовут Борщаков Тимофей Андреевич</h1>
 <h3 align="center">Pre-Middle Front-end Developer</h3>
 
-- 🔭 Я работаю над **VitTim Network**
+- 🔭 Я работаю над **<a href="https://app.conet-app.ru" target="_blank">CONET APP</a>**
 
-- 🌱 Сейчас я изучаю **HtmlLessons.ru, next.js**
+- 🌱 Сейчас я изучаю **Apollo, graphql, telegram BOTS**
 
-- 💬 Знаю **React, JS**
+- 💬 Знаю **React, JS, nextjs, nestjs, gsap**
 
 - 📫 Свяжитесь со мной **https://t.me/TimBqsNote**
 
